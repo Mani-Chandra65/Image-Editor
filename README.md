@@ -35,7 +35,7 @@ A **GUI-based image editor** built with **Python**, leveraging **Tkinter** for t
 
 ## Demo
 
-<img src="./images/demo.png" alt="Screenshot of the Image Editor" width="600"/>
+<img src="https://github.com/Mani-Chandra65/Image-Editor/blob/main/Screenshot%202025-03-27%20073037.png" alt="Screenshot of the Image Editor" width="600"/>
 
 *Screenshot showcasing the user-friendly interface and real-time image editing capabilities.*
 
